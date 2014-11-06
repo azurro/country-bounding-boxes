@@ -13,220 +13,233 @@ Format of a file:
 Below you can find a list of files. Format of each line is:
 `iso3166`.json - country name (`iso3166-numeric`)
 
-* ad.json - Andorra (020)
-* ae.json - United Arab Emirates (784)
-* af.json - Afghanistan (004)
-* ag.json - Antigua and Barbuda (028)
-* ai.json - Anguilla (660)
-* al.json - Albania (008)
-* am.json - Armenia (051)
-* ao.json - Angola (024)
-* ar.json - Argentina (032)
-* at.json - Austria (040)
-* au.json - Australia (036)
-* az.json - Azerbaijan (031)
-* ba.json - Bosnia and Herzegovina (070)
-* bb.json - Barbados (052)
-* bd.json - Bangladesh (050)
-* be.json - Belgium (056)
-* bf.json - Burkina Faso (854)
-* bg.json - Bulgaria (100)
-* bh.json - Bahrain (048)
-* bi.json - Burundi (108)
-* bj.json - Benin (204)
-* bm.json - Bermuda (060)
-* bn.json - Brunei (096)
-* bo.json - Bolivia (068)
-* br.json - Brazil (076)
-* bs.json - The Bahamas (044)
-* bt.json - Bhutan (064)
-* bw.json - Botswana (072)
-* by.json - Belarus (112)
-* bz.json - Belize (084)
-* ca.json - Canada (124)
-* cd.json - Congo-Kinshasa (180)
-* cf.json - Central African Republic (140)
-* cg.json - Congo-Brazzaville (178)
-* ch.json - Switzerland (756)
-* ci.json - Côte d'Ivoire (384)
-* ck.json - Cook Islands (184)
-* cl.json - Chile (152)
-* cm.json - Cameroon (120)
-* cn.json - People's Republic of China (156)
-* co.json - Colombia (170)
-* cr.json - Costa Rica (188)
-* cu.json - Cuba (192)
-* cv.json - Cape Verde (132)
-* cy.json - Cyprus (196)
-* cz.json - Czech Republic (203)
-* de.json - Germany (276)
-* dj.json - Djibouti (262)
-* dk.json - Denmark (208)
-* dm.json - Dominica (212)
-* do.json - Dominican Republic (214)
-* dz.json - Algeria (012)
-* ec.json - Ecuador (218)
-* ee.json - Estonia (233)
-* eg.json - Egypt (818)
-* eh.json - Sahrawi Arab Democratic Republic (732)
-* er.json - Eritrea (232)
-* es.json - Spain (724)
-* et.json - Ethiopia (231)
-* fi.json - Finland (246)
-* fj.json - Fiji (242)
-* fk.json - Falkland Islands (238)
-* fm.json - Federated States of Micronesia (583)
-* fo.json - Faroe Islands (234)
-* fr.json - France (250)
-* ga.json - Gabon (266)
-* gb.json - United Kingdom (826)
-* gd.json - Grenada (308)
-* ge.json - Georgia (268)
-* gg.json - Guernsey (831)
-* gh.json - Ghana (288)
-* gi.json - Gibraltar (292)
-* gl.json - Greenland (304)
-* gm.json - The Gambia (270)
-* gn.json - Guinea (324)
-* gq.json - Equatorial Guinea (226)
-* gr.json - Greece (300)
-* gs.json - South Georgia and the South Sandwich Islands (239)
-* gt.json - Guatemala (320)
-* gw.json - Guinea-Bissau (624)
-* gy.json - Guyana (328)
-* hn.json - Honduras (340)
-* hr.json - Croatia (191)
-* ht.json - Haiti (332)
-* hu.json - Hungary (348)
-* id.json - Indonesia (360)
-* ie.json - Ireland (372)
-* il.json - Israel (376)
-* im.json - Isle of Man (833)
-* in.json - India (356)
-* io.json - British Indian Ocean Territory (086)
-* iq.json - Iraq (368)
-* ir.json - Iran (364)
-* is.json - Iceland (352)
-* it.json - Italy (380)
-* je.json - Jersey (832)
-* jm.json - Jamaica (388)
-* jo.json - Jordan (400)
-* jp.json - Japan (392)
-* ke.json - Kenya (404)
-* kg.json - Kyrgyzstan (417)
-* kh.json - Cambodia (116)
-* ki.json - Kiribati (296)
-* km.json - Comoros (174)
-* kn.json - Saint Kitts and Nevis (659)
-* kp.json - North Korea (408)
-* kr.json - South Korea (410)
-* kw.json - Kuwait (414)
-* ky.json - Cayman Islands (136)
-* kz.json - Kazakhstan (398)
-* la.json - Laos (418)
-* lb.json - Lebanon (422)
-* lc.json - Saint Lucia (662)
-* li.json - Liechtenstein (438)
-* lk.json - Sri Lanka (144)
-* lr.json - Liberia (430)
-* ls.json - Kingdom of Lesotho (426)
-* lt.json - Lithuania (440)
-* lu.json - Luxemburg (442)
-* lv.json - Latvia (428)
-* ly.json - Libya (434)
-* ma.json - Morocco (504)
-* mc.json - Monaco (492)
-* md.json - Moldova (498)
-* me.json - Montenegro (499)
-* mg.json - Madagascar (450)
-* mh.json - Marshall Islands (584)
-* mk.json - Macedonia (807)
-* ml.json - Mali (466)
-* mm.json - Myanmar (104)
-* mn.json - Mongolia (496)
-* mr.json - Mauritania (478)
-* ms.json - Montserrat (500)
-* mt.json - Malta (470)
-* mu.json - Mauritius (480)
-* mv.json - Maldives (462)
-* mw.json - Malawi (454)
-* mx.json - Mexico (484)
-* my.json - Malaysia (458)
-* mz.json - Mozambique (508)
-* na.json - Namibia (516)
-* ne.json - Niger (562)
-* ng.json - Nigeria (566)
-* ni.json - Nicaragua (558)
-* nl.json - The Netherlands (528)
-* no.json - Norway (578)
-* np.json - Nepal (524)
-* nr.json - Nauru (520)
-* nu.json - Niue (570)
-* nz.json - New Zealand (554)
-* om.json - Oman (512)
-* pa.json - Panama (591)
-* pe.json - Peru (604)
-* pg.json - Papua New Guinea (598)
-* ph.json - Philippines (608)
-* pk.json - Pakistan (586)
-* pl.json - Poland (616)
-* pn.json - Pitcairn Islands (612)
-* ps.json - Palestine (275)
-* pt.json - Portugal (620)
-* pw.json - Palau (585)
-* py.json - Paraguay (600)
-* qa.json - Qatar (634)
-* ro.json - Romania (642)
-* rs.json - Serbia (688)
-* ru.json - Russian Federation (643)
-* rw.json - Rwanda (646)
-* sa.json - Saudi Arabia (682)
-* sb.json - Solomon Islands (090)
-* sc.json - Seychelles (690)
-* sd.json - Sudan (729)
-* se.json - Sweden (752)
-* sg.json - Singapore (702)
-* sh.json - Saint Helena, Ascension and Tristan da Cunha (654)
-* si.json - Slovenia (705)
-* sk.json - Slovakia (703)
-* sl.json - Sierra Leone (694)
-* sm.json - San Marino (674)
-* sn.json - Senegal (686)
-* so.json - Somalia (706)
-* sr.json - Suriname (740)
-* ss.json - South Sudan (728)
-* st.json - São Tomé and Príncipe (678)
-* sv.json - El Salvador (222)
-* sy.json - Syria (760)
-* sz.json - Swaziland (748)
-* tc.json - Turks and Caicos Islands (796)
-* td.json - Chad (148)
-* tg.json - Togo (768)
-* th.json - Thailand (764)
-* tj.json - Tajikistan (762)
-* tk.json - Tokelau (772)
-* tl.json - East Timor (626)
-* tm.json - Turkmenistan (795)
-* tn.json - Tunisia (788)
-* to.json - Tonga (776)
-* tr.json - Turkey (792)
-* tt.json - Trinidad and Tobago (780)
-* tv.json - Tuvalu (798)
-* tw.json - Taiwan (158)
-* tz.json - Tanzania (834)
-* ua.json - Ukraine (804)
-* ug.json - Uganda (800)
-* us.json - United States of America (840)
-* uy.json - Uruguay (858)
-* uz.json - Uzbekistan (860)
-* va.json - Vatican City (336)
-* vc.json - Saint Vincent and the Grenadines (670)
-* ve.json - Venezuela (862)
-* vg.json - British Virgin Islands (092)
-* vn.json - Vietnam (704)
-* vu.json - Vanuatu (548)
-* ws.json - Samoa (882)
-* ye.json - Yemen (887)
-* za.json - South Africa (710)
-* zm.json - Zambia (894)
-* zw.json - Zimbabwe (716)
+* ad.json - Andorra (020) [1]
+* ae.json - United Arab Emirates (784) [3]
+* af.json - Afghanistan (004) [1]
+* ag.json - Antigua and Barbuda (028) [2]
+* ai.json - Anguilla (660) [1]
+* al.json - Albania (008) [1]
+* am.json - Armenia (051) [2]
+* ao.json - Angola (024) [2]
+* ar.json - Argentina (032) [27]
+* as.json -  (016) [4]
+* at.json - Austria (040) [2]
+* au.json - Australia (036) [24]
+* aw.json - Aruba (533) [1]
+* az.json - Azerbaijan (031) [4]
+* ba.json - Bosnia and Herzegovina (070) [2]
+* bb.json - Barbados (052) [1]
+* bd.json - Bangladesh (050) [91]
+* be.json - Belgium (056) [23]
+* bf.json - Burkina Faso (854) [1]
+* bg.json - Bulgaria (100) [1]
+* bh.json - Bahrain (048) [1]
+* bi.json - Burundi (108) [1]
+* bj.json - Benin (204) [1]
+* bm.json - Bermuda (060) [1]
+* bn.json - Brunei (096) [2]
+* bo.json - Bolivia (068) [1]
+* br.json - Brazil (076) [5]
+* bs.json - The Bahamas (044) [1]
+* bt.json - Bhutan (064) [1]
+* bw.json - Botswana (072) [1]
+* by.json - Belarus (112) [1]
+* bz.json - Belize (084) [2]
+* ca.json - Canada (124) [3]
+* cd.json - Congo-Kinshasa (180) [1]
+* cf.json - Central African Republic (140) [1]
+* cg.json - Congo-Brazzaville (178) [1]
+* ch.json - Switzerland (756) [1]
+* ci.json - Côte d'Ivoire (384) [1]
+* ck.json - Cook Islands (184) [12]
+* cl.json - Chile (152) [6]
+* cm.json - Cameroon (120) [1]
+* cn.json - People's Republic of China (156) [43]
+* co.json - Colombia (170) [9]
+* cr.json - Costa Rica (188) [2]
+* cu.json - Cuba (192) [1]
+* cv.json - Cape Verde (132) [1]
+* cy.json - Cyprus (196) [5]
+* cz.json - Czech Republic (203) [1]
+* de.json - Germany (276) [8]
+* dj.json - Djibouti (262) [1]
+* dk.json - Denmark (208) [2]
+* dm.json - Dominica (212) [1]
+* do.json - Dominican Republic (214) [1]
+* dz.json - Algeria (012) [1]
+* ec.json - Ecuador (218) [2]
+* ee.json - Estonia (233) [1]
+* eg.json - Egypt (818) [3]
+* eh.json - Sahrawi Arab Democratic Republic (732) [2]
+* er.json - Eritrea (232) [1]
+* es.json - Spain (724) [15]
+* et.json - Ethiopia (231) [1]
+* fi.json - Finland (246) [1]
+* fj.json - Fiji (242) [3]
+* fk.json - Falkland Islands (238) [2]
+* fm.json - Federated States of Micronesia (583) [32]
+* fo.json - Faroe Islands (234) [1]
+* fr.json - France (250) [88]
+* ga.json - Gabon (266) [1]
+* gb.json - United Kingdom (826) [5]
+* gd.json - Grenada (308) [1]
+* ge.json - Georgia (268) [1]
+* gg.json - Guernsey (831) [1]
+* gh.json - Ghana (288) [1]
+* gi.json - Gibraltar (292) [1]
+* gl.json - Greenland (304) [1]
+* gm.json - The Gambia (270) [1]
+* gn.json - Guinea (324) [1]
+* gp.json - Guadeloupe (312) [1]
+* gq.json - Equatorial Guinea (226) [3]
+* gr.json - Greece (300) [4]
+* gs.json - South Georgia and the South Sandwich Islands (239) [9]
+* gt.json - Guatemala (320) [1]
+* gu.json - Guam (316) [1]
+* gw.json - Guinea-Bissau (624) [1]
+* gy.json - Guyana (328) [1]
+* hn.json - Honduras (340) [1]
+* hr.json - Croatia (191) [2]
+* ht.json - Haiti (332) [1]
+* hu.json - Hungary (348) [1]
+* id.json - Indonesia (360) [1]
+* ie.json - Ireland (372) [1]
+* il.json - Israel (376) [1]
+* im.json - Isle of Man (833) [1]
+* in.json - India (356) [106]
+* io.json - British Indian Ocean Territory (086) [4]
+* iq.json - Iraq (368) [1]
+* ir.json - Iran (364) [2]
+* is.json - Iceland (352) [2]
+* it.json - Italy (380) [6]
+* je.json - Jersey (832) [1]
+* jm.json - Jamaica (388) [1]
+* jo.json - Jordan (400) [1]
+* jp.json - Japan (392) [21]
+* ke.json - Kenya (404) [1]
+* kg.json - Kyrgyzstan (417) [1]
+* kh.json - Cambodia (116) [1]
+* ki.json - Kiribati (296) [24]
+* km.json - Comoros (174) [1]
+* kn.json - Saint Kitts and Nevis (659) [1]
+* kp.json - North Korea (408) [1]
+* kr.json - South Korea (410) [3]
+* kw.json - Kuwait (414) [1]
+* ky.json - Cayman Islands (136) [2]
+* kz.json - Kazakhstan (398) [1]
+* la.json - Laos (418) [1]
+* lb.json - Lebanon (422) [1]
+* lc.json - Saint Lucia (662) [1]
+* li.json - Liechtenstein (438) [1]
+* lk.json - Sri Lanka (144) [1]
+* lr.json - Liberia (430) [1]
+* ls.json - Kingdom of Lesotho (426) [1]
+* lt.json - Lithuania (440) [1]
+* lu.json - Luxemburg (442) [1]
+* lv.json - Latvia (428) [1]
+* ly.json - Libya (434) [1]
+* ma.json - Morocco (504) [1]
+* mc.json - Monaco (492) [1]
+* md.json - Moldova (498) [1]
+* me.json - Montenegro (499) [1]
+* mg.json - Madagascar (450) [1]
+* mh.json - Marshall Islands (584) [24]
+* mk.json - Macedonia (807) [1]
+* ml.json - Mali (466) [1]
+* mm.json - Myanmar (104) [3]
+* mn.json - Mongolia (496) [1]
+* mp.json - Northern Mariana Islands (580) [12]
+* mq.json - Martinique (474) [1]
+* mr.json - Mauritania (478) [1]
+* ms.json - Montserrat (500) [1]
+* mt.json - Malta (470) [1]
+* mu.json - Mauritius (480) [4]
+* mv.json - Maldives (462) [1]
+* mw.json - Malawi (454) [3]
+* mx.json - Mexico (484) [12]
+* my.json - Malaysia (458) [3]
+* mz.json - Mozambique (508) [1]
+* na.json - Namibia (516) [1]
+* nc.json - New Caledonia (540) [9]
+* ne.json - Niger (562) [1]
+* ng.json - Nigeria (566) [1]
+* ni.json - Nicaragua (558) [3]
+* nl.json - The Netherlands (528) [12]
+* no.json - Norway (578) [8]
+* np.json - Nepal (524) [1]
+* nr.json - Nauru (520) [1]
+* nu.json - Niue (570) [1]
+* nz.json - New Zealand (554) [11]
+* om.json - Oman (512) [3]
+* pa.json - Panama (591) [1]
+* pe.json - Peru (604) [1]
+* pf.json - French Polynesia (258) [57]
+* pg.json - Papua New Guinea (598) [3]
+* ph.json - Philippines (608) [1]
+* pk.json - Pakistan (586) [1]
+* pl.json - Poland (616) [1]
+* pm.json - Saint Pierre and Miquelon (666) [1]
+* pn.json - Pitcairn Islands (612) [4]
+* pr.json - Puerto Rico (630) [3]
+* ps.json - Palestine (275) [2]
+* pt.json - Portugal (620) [6]
+* pw.json - Palau (585) [8]
+* py.json - Paraguay (600) [1]
+* qa.json - Qatar (634) [3]
+* re.json - Réunion (638) [1]
+* ro.json - Romania (642) [1]
+* rs.json - Serbia (688) [1]
+* ru.json - Russian Federation (643) [30]
+* rw.json - Rwanda (646) [1]
+* sa.json - Saudi Arabia (682) [1]
+* sb.json - Solomon Islands (090) [10]
+* sc.json - Seychelles (690) [9]
+* sd.json - Sudan (729) [1]
+* se.json - Sweden (752) [2]
+* sg.json - Singapore (702) [1]
+* sh.json - Saint Helena, Ascension and Tristan da Cunha (654) [4]
+* si.json - Slovenia (705) [1]
+* sk.json - Slovakia (703) [1]
+* sl.json - Sierra Leone (694) [1]
+* sm.json - San Marino (674) [1]
+* sn.json - Senegal (686) [1]
+* so.json - Somalia (706) [1]
+* sr.json - Suriname (740) [1]
+* ss.json - South Sudan (728) [1]
+* st.json - São Tomé and Príncipe (678) [2]
+* sv.json - El Salvador (222) [1]
+* sy.json - Syria (760) [1]
+* sz.json - Swaziland (748) [1]
+* tc.json - Turks and Caicos Islands (796) [1]
+* td.json - Chad (148) [1]
+* tg.json - Togo (768) [1]
+* th.json - Thailand (764) [1]
+* tj.json - Tajikistan (762) [3]
+* tk.json - Tokelau (772) [3]
+* tl.json - East Timor (626) [2]
+* tm.json - Turkmenistan (795) [1]
+* tn.json - Tunisia (788) [1]
+* to.json - Tonga (776) [10]
+* tr.json - Turkey (792) [2]
+* tt.json - Trinidad and Tobago (780) [1]
+* tv.json - Tuvalu (798) [8]
+* tw.json - Taiwan (158) [10]
+* tz.json - Tanzania (834) [1]
+* ua.json - Ukraine (804) [1]
+* ug.json - Uganda (800) [2]
+* us.json - United States of America (840) [55]
+* uy.json - Uruguay (858) [1]
+* uz.json - Uzbekistan (860) [4]
+* va.json - Vatican City (336) [1]
+* vc.json - Saint Vincent and the Grenadines (670) [1]
+* ve.json - Venezuela (862) [5]
+* vg.json - British Virgin Islands (092) [1]
+* vi.json - United States Virgin Islands (850) [2]
+* vn.json - Vietnam (704) [5]
+* vu.json - Vanuatu (548) [1]
+* wf.json - Wallis and Futuna (876) [2]
+* ws.json - Samoa (882) [1]
+* ye.json - Yemen (887) [3]
+* za.json - South Africa (710) [2]
+* zm.json - Zambia (894) [1]
+* zw.json - Zimbabwe (716) [1]
