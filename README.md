@@ -11,7 +11,10 @@ Format of a file:
 * `bbox` - a list of bounding boxes (ref: http://geojson.org/geojson-spec.html#bounding-boxes )
 
 Below you can find a list of files. Format of each line is:
+
 `iso3166`.json - country name (`iso3166-numeric`)
+
+All boxes: 378
 
 * ad.json - Andorra (020) [1]
 * ae.json - United Arab Emirates (784) [3]
